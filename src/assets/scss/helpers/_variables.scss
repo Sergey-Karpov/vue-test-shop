@@ -1,0 +1,42 @@
+//? Основные цвета
+$main: #0b0b0b;
+$white: #ffffff;
+$green: #27ae60;
+$yellow: #f2c94c;
+$red: #eb5757;
+// primary
+$primary-100: #61afd2;
+$primary-200: #4497bc;
+$primary-300: #e7f6fc;
+// base
+$base-100: #0b0b0b;
+$base-200: #3b3b3b;
+$base-300: #707070;
+$base-400: #e6e6e6;
+$base-500: #f5f5f5;
+
+//? Фоны
+$footer-bg: $base-100;
+
+//? Z-index
+$header-z-index: 55;
+
+//? По умолчанию
+$base_fz: 20px; //? Размер шрифта по умолчанию 20px
+$base_ff: 'Montserrat-Regular', sans-serif; //? Шрифт по умолчанию
+$base_bg: $white; //? Цвет фона по умолчанию
+$base_color: $main; //? Цвет текста по умолчанию
+
+//? Переменные семейств шрифтов
+$ff_Mb: 'Montserrat-Bold', sans-serif;
+$ff_Mm: 'Montserrat-Medium', sans-serif;
+$ff_Mr: 'Montserrat-Regular', sans-serif;
+
+//? Стиль шрифтов
+$I: italic;
+$O: oblique;
+
+//? Толщина семейства шрифтов
+$r: 400; // Regular
+$m: 500; // Medium
+$b: 700; // Bold

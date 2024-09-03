@@ -1,0 +1,111 @@
+// *================================================================
+//? Шрифты и заголовки
+// *================================================================
+
+// Montserrat Bold
+@mixin Ms-b48 {
+  font-family: $ff_Mb;
+  font-size: 48px;
+  line-height: 57.6px;
+}
+
+// Montserrat upper
+@mixin Ms-upper64 {
+  font-family: $ff_Mb;
+  font-size: 64px;
+  line-height: 78.8px;
+  text-transform: uppercase;
+}
+
+@mixin Ms-upper48 {
+  font-family: $ff_Mb;
+  font-size: 48px;
+  line-height: 57.6px;
+  text-transform: uppercase;
+}
+
+@mixin Ms-upper40 {
+  font-family: $ff_Mb;
+  font-size: 40px;
+  line-height: 48px;
+  text-transform: uppercase;
+}
+
+@mixin Ms-upper32 {
+  font-family: $ff_Mb;
+  font-size: 32px;
+  line-height: 38.4px;
+  text-transform: uppercase;
+}
+
+@mixin Ms-upper24 {
+  font-family: $ff_Mb;
+  font-size: 24px;
+  line-height: 29.76px;
+  text-transform: uppercase;
+}
+
+@mixin Ms-upper20 {
+  font-family: $ff_Mb;
+  font-size: 20px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+
+@mixin Ms-upper16 {
+  font-family: $ff_Mb;
+  font-size: 16px;
+  line-height: 22.4px;
+  text-transform: uppercase;
+}
+
+@mixin Ms-upper14 {
+  font-family: $ff_Mb;
+  font-size: 14px;
+  line-height: 18.2px;
+  text-transform: uppercase;
+}
+
+// Montserrat medium
+@mixin Ms-m20 {
+  font-family: $ff_Mm;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+@mixin Ms-m18 {
+  font-family: $ff_Mm;
+  font-size: 18px;
+  line-height: 21.6px;
+}
+
+@mixin Ms-m14 {
+  font-family: $ff_Mm;
+  font-size: 14px;
+  line-height: 18.2px;
+}
+
+// Montserrat regular
+@mixin Ms-r20 {
+  font-family: $ff_Mr;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+@mixin Ms-r18 {
+  font-family: $ff_Mr;
+  font-size: 18px;
+  line-height: 21.6px;
+}
+
+@mixin Ms-r14 {
+  font-family: $ff_Mr;
+  font-size: 14px;
+  line-height: 18.2px;
+}
+
+@mixin Ms-r8 {
+  font-family: $ff_Mr;
+  font-size: 8px;
+  line-height: 11.52px;
+}
